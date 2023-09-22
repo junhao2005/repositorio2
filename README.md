@@ -9,4 +9,4 @@ Estilos de pueden **_anidar_**
 
 Listas ordenadas 
 1. Primer elemento de la lista
-2. SEgundo elemento de la lista 
+2. Segundo elemento de la lista 
