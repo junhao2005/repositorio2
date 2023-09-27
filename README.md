@@ -38,3 +38,7 @@ fknewlkfvnewljnewlkjvnewlvnewlvnweljvnwjvnd,jvbwdjlvbewvewljvndwljcvdwlknvcewlkn
 
 ![Imagen de cr7](https://github.com/junhao2005/repositorio2/blob/main/90d75398f0f26efca58a983d2a3ee007.jpg)
 
+|Titulo |Alineacion | Precios|
+|----------|:----------:|----------:|
+|Col 2 es|Centrada|500€|
+|Col 3 es|Derecha|1500€|
